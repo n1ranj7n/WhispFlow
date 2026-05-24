@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+data/session/
+data/contacts.json
+.DS_Store

@@ -1,0 +1,16 @@
+{
+  "name": "wa-sender",
+  "version": "1.0.0",
+  "description": "Personal dashboard to send files to your WhatsApp contacts from your own account",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1",
+    "qrcode": "^1.5.4",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
